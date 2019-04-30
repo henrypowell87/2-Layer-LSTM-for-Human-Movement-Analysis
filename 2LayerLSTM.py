@@ -1,3 +1,13 @@
+"""
+Author: Henry Powell
+Institution: SoBots Lab, Institute of Neuroscience and Psychology, University
+of Glasgow, UK.
+
+2 Layer LSTM designed for human movement analysis. Achieved 65% accuracy on NTURGD+B when tested.
+"""
+
+
+
 import numpy as np
 import matplotlib.pyplot as plt
 import os
